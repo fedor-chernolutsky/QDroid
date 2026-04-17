@@ -1,5 +1,5 @@
 # QDroid
-Android ADB-клиент на Python3 для QEMU
+Python-клиент по запуску Android x86 на Qemu
 
 <img src="img/screen1.png" width="50%">
 
