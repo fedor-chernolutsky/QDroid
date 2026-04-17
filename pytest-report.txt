@@ -1,0 +1,15 @@
+============================= test session starts =============================
+platform win32 -- Python 3.12.4, pytest-8.4.2, pluggy-1.6.0 -- C:\Program Files\Python312\python.exe
+cachedir: .pytest_cache
+rootdir: C:\Users\Cliff\Desktop\QDroid
+collecting ... collected 7 items
+
+test.py::test_adb_connection PASSED                                      [ 14%]
+test.py::test_execute_basic_command PASSED                               [ 28%]
+test.py::test_pull_file PASSED                                           [ 42%]
+test.py::test_logcat_collection PASSED                                   [ 57%]
+test.py::test_system_properties PASSED                                   [ 71%]
+test.py::test_error_handling PASSED                                      [ 85%]
+test.py::test_cleanup PASSED                                             [100%]
+
+============================= 7 passed in 32.05s ==============================
